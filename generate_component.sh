@@ -1,0 +1,1 @@
+ng generate component $1 --skipTests=true --style=scss

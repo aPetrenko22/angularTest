@@ -1,0 +1,15 @@
+.main {
+  background: url('https://images.wallpaperscraft.com/image/surface_dark_background_texture_50754_2560x1440.jpg');
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  button {
+    width: 10%;
+    height: 5%;
+    display: flex;
+    justify-content: center;
+  }
+}
